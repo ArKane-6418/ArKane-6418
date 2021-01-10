@@ -6,5 +6,5 @@
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/-joshua-ong/
 - 😄 Pronouns: He/Him
 
-!ArKane's github stats](https://github-readme-stats.vercel.app/api?username=ArKane-6418&theme=algolia&show_icons=true)
+![ArKane's github stats](https://github-readme-stats.vercel.app/api?username=ArKane-6418&theme=algolia&show_icons=true)
 
