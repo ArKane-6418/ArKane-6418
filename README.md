@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-!ArKane's github stats](https://github-readme-stats.vercel.app/api?username=ArKane-6419&theme=algolia&show_icons=true)
+!ArKane's github stats](https://github-readme-stats.vercel.app/api?username=ArKane-6418&theme=algolia&show_icons=true)
 
