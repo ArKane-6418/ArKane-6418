@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Javascript.
 - 🤔 I’m looking for help with enhancing my skillset.
-- 💬 Ask me about anything, really! I love talking with others
+- 💬 Ask me about anything, really! I love talking with others.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/-joshua-ong/
 - 😄 Pronouns: He/Him
 
