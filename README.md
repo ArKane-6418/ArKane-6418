@@ -6,7 +6,11 @@
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/-joshua-ong/
 - 😄 Pronouns: He/Him
 
-![ArKane's github stats](https://github-readme-stats.vercel.app/api?username=ArKane-6418&theme=algolia&show_icons=true)
-[![Most Used Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/ArKane-6418/github-readme-stats)
+<a href="https://github.com/ArKane-6418/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArKane-6418&theme=algolia&show_icons=true&include_all_commits=true" alt="Joshua's Github Stats"/>
+</a>
+<a href="https://github.com/ArKane-6418/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArKane-6418&langs_count=8&layout=compact&theme=algolia" alt="Most Used Languages"/>
+</a>
 
 
