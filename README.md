@@ -1,7 +1,7 @@
 ### Hello there. I'm Joshua! 👋
 
-- 🌱 I’m currently learning Javascript/React/Express.
-- 🔭 I'm currently working on [Full Stack Open 2021](https://github.com/ArKane-6418/Full-Stack-Open-2021)
+- 🌱 I’m currently learning Javascript/React/Express and Machine Learning.
+- 🔭 I'm currently working on [Full Stack Open 2021](https://github.com/ArKane-6418/Full-Stack-Open-2021) and [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
 - 🤔 I’m looking for help with enhancing my skillset.
 - 💬 Ask me about anything, really! I love talking with others.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/-joshua-ong/
