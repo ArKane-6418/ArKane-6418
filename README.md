@@ -1,7 +1,7 @@
 ### Hello there. I'm Joshua! 👋
 
-- 🌱 I’m currently learning Go and C++.
-- 🔭 I'm currently reading [Learn Go: The Complete Course](https://kps.hashnode.dev/learn-go-the-complete-course#heading-what-is-go)
+- 🌱 I’m currently learning Go and TypeScript.
+- 🔭 I'm currently reading ...
 - 🤔 I’m looking for help with enhancing my skillset.
 - 💬 Ask me about anything, really! I love talking with others.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/-joshua-ong/
