@@ -1,6 +1,6 @@
 ### Hello there. I'm Joshua! 👋
 
-- 🌱 I’m currently learning Go and TypeScript.
+- 🌱 I’m currently grinding LeetCode.
 - 🔭 I'm currently reading ...
 - 🤔 I’m looking for help with enhancing my skillset.
 - 💬 Ask me about anything, really! I love talking with others.
