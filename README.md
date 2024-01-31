@@ -1,10 +1,10 @@
 ### Hello there. I'm Joshua! 👋
 
 - 🌱 I’m currently getting back into Machine Learning.
-- 🔭 I'm currently reading GRIT by Angela Duckworth.
-- 🤔 I’m looking for help with enhancing my skillset.
+- 📚 I'm currently reading GRIT by Angela Duckworth.
+- 📈 I’m currently enhancing my skillset.
 - 💬 Ask me about anything, really! I love talking with others.
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/-joshua-ong/
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/-joshua-ong/">LinkedIn</a>
 - 😄 Pronouns: He/Him
 
 - You can learn more about me on my <a href="https://joshua-o.vercel.app/">blog website</a>.
